@@ -1,4 +1,4 @@
-# FATALCORE
+# Fatalcore
 
 <img width="1870" height="919" alt="изображение" src="https://github.com/user-attachments/assets/0b3ca3e2-cb31-472c-9466-2421de770a9d" />
 <img width="1870" height="919" alt="изображение" src="https://github.com/user-attachments/assets/393ca703-506f-4c29-bb64-7d0b70b5ae12" />
@@ -16,8 +16,8 @@ Fatalcore — это устройство для разработчиков, б�
 - WS2812B (RGB)
 - SD card
 - Infrared
-- SubGHz (CC1101)
-- NRF24 (E01)
+- AS07 (CC1101)
+- E01-2G4M27SX (NRF24)
 - iButton 
 - GPIO
 - NFC (ST25R3916)
